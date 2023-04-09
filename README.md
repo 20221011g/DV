@@ -29,3 +29,7 @@ The dataset used during the visualisation about Lego was obtained from the Brick
 | Category | Object | If a record is a set or minifigure |
 | Price_unadjusted | Float64 | Target price before inflation adjustment |
 | Value_change_per | Float64 | The change of a value between the retail price and the current price as a "new set" |
+
+## Access the dashboard
+
+Link to the dashboard: https://public.tableau.com/app/profile/mariana.lavinha/viz/DV_DASHBOARD/Dashboard3?publish=yes 
