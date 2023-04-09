@@ -10,10 +10,18 @@ Here is the link to access our dashboard: https://public.tableau.com/app/profile
 
 ## Project Context
 
-This project was create in accordance with the evaluation requirements for the Data Visualization course, which is a requirement for the Master in Data Science and Advanced Analytics program.
+This project was created in accordance with the evaluation requirements for the Data Visualization course, which is a requirement for the Master in Data Science and Advanced Analytics program.
 
 The idea came up after a few hours of research in a Lego set guide and because it has a lot of LEGO articles, we downloaded the dataset locally. 
 A visualization tool was created to analyze the evolution of the toy industry and demonstrate how visualization concepts and techniques can be used to transform data into an interactive representation that provides insight into the significant changes that have occurred in the world of Lego over the years. In the context of Data Visualization course, this project aims to present in an organised and funny way, a LEGO interaction Dashboard that shows and brings some evolutions and curiosities over the years. The project was implemented in Tableau and the idea in our Dashboard is to allow the users to selecta certain timeline and their favourite Set.
+
+### Questions of interest
+
+1. How was the evolution of sets and themes over the past 30 years?
+2. Are lego sets becoming more and more expensive?
+3. What about the evolution of the number of pieces and their price?
+4. Top 5 Record-breaking sets by piece count
+5. What words do most often come up in set names?
 
 ## Dataset Description
 
