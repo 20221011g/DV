@@ -11,7 +11,6 @@ Here is the link to access our dashboard: https://public.tableau.com/app/profile
 ## Project Context
 
 This project was created in accordance with the evaluation requirements for the Data Visualization course, which is a requirement for the Master in Data Science and Advanced Analytics program.
-
 The idea came up after a few hours of research in a Lego set guide and because it has a lot of LEGO articles, we downloaded the dataset locally. 
 A visualization tool was created to analyze the evolution of the toy industry and demonstrate how visualization concepts and techniques can be used to transform data into an interactive representation that provides insight into the significant changes that have occurred in the world of Lego over the years. In the context of Data Visualization course, this project aims to present in an organised and funny way, a LEGO interaction Dashboard that shows and brings some evolutions and curiosities over the years. The project was implemented in Tableau and the idea in our Dashboard is to allow the users to selecta certain timeline and their favourite Set.
 
@@ -45,4 +44,10 @@ The dataset used during the visualisation about Lego was obtained from the Brick
 | Price_unadjusted | Float64 | Target price before inflation adjustment |
 | Value_change_per | Float64 | The change of a value between the retail price and the current price as a "new set" |
 
+## Data & Methods
 
+Growing up with Lego, we believe that approaching it from a Data Science perspective adds an extra layer of fascination. In order to ensure that all the information was accessible and easy to understand, we decided to create a dashboard that only by looking at it, the user could recognise it was about Lego, so we decided to apply their color scheme throughout the project.
+Also, in order not to overcomplicate the dashboard and hinder the audience visualization we included 5 graphical representations, as our overview Tab. Regarding the first chart, using a scatterplot, we can analyze the evolution of the number of sets, as well as the number of themes by using different circle sizes for this second feature.  
+Since 2014 the average price per set has been increasing exponentially. In conclusion, both show a positive trend. While the number of themes has more than doubled since 1991, the total number of sets has grown by just under 6 times.
+The pieces chart, shows the evolution of pieces' number and price. The conclusion is that  the number of pieces per set is increasing, while the average price per piece is decreasing. To kill some curiosities that arose during the research and development of the work, we decided to know what were the top 5 record-breaking set by piece count and we conclude that The World Map is the largest set of all time, with 11.695 pieces. We also can see in the pie chart, that "pack" is the most frequent word in set names.
+Furthermore, some details that conveyed information about each set of Lego, were created for the user to be able to select the Set Name and be able to see what theme it belongs to, the launch year, its number of pieces and minifigures, the price and the percentage change since the set was discontinued
